@@ -1,2 +1,0 @@
-# Calculadora-cuotas
-cuotas
